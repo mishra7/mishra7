@@ -1,5 +1,8 @@
 package com.ds.tree;
 
 public class SpiralTree {
-System.out.println("Tree");
+	public static void main(String[] args) {
+		
+	}
+
 }
